@@ -11,6 +11,8 @@ This PowerPoint presentation explores the evolution and impact of modern technol
 
 📂 **Included File**
 - `technology_presentation.pptx`: The full presentation file
+- (Technology-Presentation.pptx)
+- (Technology-Presentation-idea-2.pptx)
 🖼️ **Preview**
 ![technology-presentation 2.png](images/Technology-Presentation-idea-2.png)
 ![technology-presentation.png](images/Technology-Presentation.png)
